@@ -1,0 +1,36 @@
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe.config
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.pdb
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.AssemblyReference.cache
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.SuggestedBindingRedirects.cache
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form1.resources
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form2.resources
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Properties.Resources.resources
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.GenerateResource.cache
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.CoreCompileInputs.cache
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.exe
+D:\University\Coding\Kì 4\C#\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.pdb
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe.config
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.pdb
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form1.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form2.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.pdb
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe.config
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\bin\Debug\QuanLiSV.pdb
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form1.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Form2.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.Properties.Resources.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\QuanLiSV\QuanLiSV\obj\Debug\QuanLiSV.pdb

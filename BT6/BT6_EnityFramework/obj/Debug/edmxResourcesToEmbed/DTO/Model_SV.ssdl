@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LNHModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LSH">
+    <Key>
+      <PropertyRef Name="ID_LOP" />
+    </Key>
+    <Property Name="ID_LOP" Type="int" Nullable="false" />
+    <Property Name="NAMELOP" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SV1">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="NAMESV" Type="nvarchar" MaxLength="50" />
+    <Property Name="GENDER" Type="bit" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="DTB" Type="float" />
+    <Property Name="ID_LOP" Type="int" />
+  </EntityType>
+  <Association Name="FK__SV1__ID_LOP__04E4BC85">
+    <End Role="LSH" Type="Self.LSH" Multiplicity="0..1" />
+    <End Role="SV1" Type="Self.SV1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LSH">
+        <PropertyRef Name="ID_LOP" />
+      </Principal>
+      <Dependent Role="SV1">
+        <PropertyRef Name="ID_LOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LNHModelStoreContainer">
+    <EntitySet Name="LSH" EntityType="Self.LSH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SV1" EntityType="Self.SV1" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__SV1__ID_LOP__04E4BC85" Association="Self.FK__SV1__ID_LOP__04E4BC85">
+      <End Role="LSH" EntitySet="LSH" />
+      <End Role="SV1" EntitySet="SV1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

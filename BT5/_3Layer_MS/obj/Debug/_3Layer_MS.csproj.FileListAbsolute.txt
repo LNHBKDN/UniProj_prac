@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\_3Layer_MS\bin\Debug\_3Layer_MS.exe.config
+C:\Users\Administrator\source\repos\_3Layer_MS\bin\Debug\_3Layer_MS.exe
+C:\Users\Administrator\source\repos\_3Layer_MS\bin\Debug\_3Layer_MS.pdb
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.Properties.Resources.resources
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.Form1.resources
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.exe
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.pdb
+C:\Users\Administrator\source\repos\_3Layer_MS\obj\Debug\_3Layer_MS.Details.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\bin\Debug\_3Layer_MS.exe.config
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\bin\Debug\_3Layer_MS.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\bin\Debug\_3Layer_MS.pdb
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.Details.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.Properties.Resources.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.Form1.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT5\_3Layer_MS\obj\Debug\_3Layer_MS.pdb

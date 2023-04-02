@@ -1,0 +1,36 @@
+C:\Users\Administrator\source\repos\MSwDB\bin\Debug\MSwDB.exe.config
+C:\Users\Administrator\source\repos\MSwDB\bin\Debug\MSwDB.exe
+C:\Users\Administrator\source\repos\MSwDB\bin\Debug\MSwDB.pdb
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.Form1.resources
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.exe
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.pdb
+C:\Users\Administrator\source\repos\MSwDB\obj\Debug\MSwDB.DETAILS.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.exe.config
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.pdb
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.DETAILS.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.Form1.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.Properties.Resources.resources
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.exe
+C:\Users\ACER\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.pdb
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.exe.config
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\bin\Debug\MSwDB.pdb
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.DETAILS.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.Form1.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT4\MSwDB\obj\Debug\MSwDB.pdb

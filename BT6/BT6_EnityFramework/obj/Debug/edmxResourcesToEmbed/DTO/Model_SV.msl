@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LNHModelStoreContainer" CdmEntityContainer="LNHEntities1">
+    <EntitySetMapping Name="LSH">
+      <EntityTypeMapping TypeName="LNHModel.LSH">
+        <MappingFragment StoreEntitySet="LSH">
+          <ScalarProperty Name="ID_LOP" ColumnName="ID_LOP" />
+          <ScalarProperty Name="NAMELOP" ColumnName="NAMELOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SV1">
+      <EntityTypeMapping TypeName="LNHModel.SV1">
+        <MappingFragment StoreEntitySet="SV1">
+          <ScalarProperty Name="MSSV" ColumnName="MSSV" />
+          <ScalarProperty Name="NAMESV" ColumnName="NAMESV" />
+          <ScalarProperty Name="GENDER" ColumnName="GENDER" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="DTB" ColumnName="DTB" />
+          <ScalarProperty Name="ID_LOP" ColumnName="ID_LOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

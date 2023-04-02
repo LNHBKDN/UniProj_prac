@@ -1,0 +1,17 @@
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\BT6_EnityFramework.exe.config
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\BT6_EnityFramework.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\BT6_EnityFramework.pdb
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.Detail.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.Form1.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.csproj.CopyComplete
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.exe
+C:\Users\Administrator\OneDrive - The University of Technology\PC\.Net\BT6\BT6_EnityFramework\obj\Debug\BT6_EnityFramework.pdb

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="LNHModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="LSH">
+          <Key>
+            <PropertyRef Name="ID_LOP" />
+          </Key>
+          <Property Name="ID_LOP" Type="int" Nullable="false" />
+          <Property Name="NAMELOP" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="SV1">
+          <Key>
+            <PropertyRef Name="MSSV" />
+          </Key>
+          <Property Name="MSSV" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="NAMESV" Type="nvarchar" MaxLength="50" />
+          <Property Name="GENDER" Type="bit" />
+          <Property Name="NGAYSINH" Type="date" />
+          <Property Name="DTB" Type="float" />
+          <Property Name="ID_LOP" Type="int" />
+        </EntityType>
+        <Association Name="FK__SV1__ID_LOP__04E4BC85">
+          <End Role="LSH" Type="Self.LSH" Multiplicity="0..1" />
+          <End Role="SV1" Type="Self.SV1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LSH">
+              <PropertyRef Name="ID_LOP" />
+            </Principal>
+            <Dependent Role="SV1">
+              <PropertyRef Name="ID_LOP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LNHModelStoreContainer">
+          <EntitySet Name="LSH" EntityType="Self.LSH" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SV1" EntityType="Self.SV1" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__SV1__ID_LOP__04E4BC85" Association="Self.FK__SV1__ID_LOP__04E4BC85">
+            <End Role="LSH" EntitySet="LSH" />
+            <End Role="SV1" EntitySet="SV1" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="LNHModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="LSH">
+          <Key>
+            <PropertyRef Name="ID_LOP" />
+          </Key>
+          <Property Name="ID_LOP" Type="Int32" Nullable="false" />
+          <Property Name="NAMELOP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="SV1" Relationship="Self.FK__SV1__ID_LOP__04E4BC85" FromRole="LSH" ToRole="SV1" />
+        </EntityType>
+        <EntityType Name="SV1">
+          <Key>
+            <PropertyRef Name="MSSV" />
+          </Key>
+          <Property Name="MSSV" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="NAMESV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GENDER" Type="Boolean" />
+          <Property Name="NGAYSINH" Type="DateTime" Precision="0" />
+          <Property Name="DTB" Type="Double" />
+          <Property Name="ID_LOP" Type="Int32" />
+          <NavigationProperty Name="LSH" Relationship="Self.FK__SV1__ID_LOP__04E4BC85" FromRole="SV1" ToRole="LSH" />
+        </EntityType>
+        <Association Name="FK__SV1__ID_LOP__04E4BC85">
+          <End Role="LSH" Type="Self.LSH" Multiplicity="0..1" />
+          <End Role="SV1" Type="Self.SV1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LSH">
+              <PropertyRef Name="ID_LOP" />
+            </Principal>
+            <Dependent Role="SV1">
+              <PropertyRef Name="ID_LOP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="LNHEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="LSH" EntityType="Self.LSH" />
+          <EntitySet Name="SV1" EntityType="Self.SV1" />
+          <AssociationSet Name="FK__SV1__ID_LOP__04E4BC85" Association="Self.FK__SV1__ID_LOP__04E4BC85">
+            <End Role="LSH" EntitySet="LSH" />
+            <End Role="SV1" EntitySet="SV1" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="LNHModelStoreContainer" CdmEntityContainer="LNHEntities1">
+          <EntitySetMapping Name="LSH">
+            <EntityTypeMapping TypeName="LNHModel.LSH">
+              <MappingFragment StoreEntitySet="LSH">
+                <ScalarProperty Name="ID_LOP" ColumnName="ID_LOP" />
+                <ScalarProperty Name="NAMELOP" ColumnName="NAMELOP" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SV1">
+            <EntityTypeMapping TypeName="LNHModel.SV1">
+              <MappingFragment StoreEntitySet="SV1">
+                <ScalarProperty Name="MSSV" ColumnName="MSSV" />
+                <ScalarProperty Name="NAMESV" ColumnName="NAMESV" />
+                <ScalarProperty Name="GENDER" ColumnName="GENDER" />
+                <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+                <ScalarProperty Name="DTB" ColumnName="DTB" />
+                <ScalarProperty Name="ID_LOP" ColumnName="ID_LOP" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
